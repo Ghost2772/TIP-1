@@ -1,1 +1,1 @@
-# QT_chat_2023
+Для запуска программы необходимо открыть папку HybridServ -> release -> HebridServ.exe
